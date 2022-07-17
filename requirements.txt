@@ -1,1 +1,1 @@
-pip install pandas matplotlib scipy tf-nightly-gpu
+pip install notebook pandas matplotlib scipy fastparquet tqdm tensorflow
