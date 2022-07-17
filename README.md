@@ -17,6 +17,11 @@ Nevertheless, the source data used is not available, but you may try it on any o
 * Change the data directories to use your own data (i.e. data_dir1, data_dir2, etc.)
 
 I strongly recommend you to use a GPU to train your models for analysing high frequency data.
+
+# References
+Naveen Sai Madiraju et al. “Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features”. In: CoRR abs/1802.01059 (2018). arXiv:1802.01059. url: [http://arxiv.org/abs/1802}(http://arxiv.org/abs/1802)
+01059.
+
 <br/>
 <br/>
 Enjoy! :) 
