@@ -21,7 +21,7 @@ Nevertheless, the source data used is not available, but you may try it on any o
 I strongly recommend you to use a GPU to train your models for analysing high frequency data.
 
 # References
-Naveen Sai Madiraju et al. “Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features”. In: CoRR abs/1802.01059 (2018). arXiv:1802.01059. url: [http://arxiv.org/abs/1802.01059](https://arxiv.org/abs/1802.01059)
+Naveen Sai Madiraju et al. “Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features”. In: CoRR abs/1802.01059 (2018). arXiv:1802.01059. url: [https://arxiv.org/abs/1802.01059](https://arxiv.org/abs/1802.01059)
 01059.
 
 <br/>
