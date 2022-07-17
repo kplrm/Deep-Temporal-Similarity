@@ -12,8 +12,11 @@ This repository serves to share the algorithm published in my Master Thesis.
 
 Nevertheless, the source data used is not available, but you may try it on any other continuous measurement, in which a repetitive pattern its found.
 
-**Prerequisite**
+**Prerequisites**
 * Install all the libraries listed in `requirements.txt`
 * Change the data directories to use your own data (i.e. data_dir1, data_dir2, etc.)
 
 I strongly recommend you to use a GPU to train your models for analysing high frequency data.
+<br/>
+<br/>
+Enjoy! :) 
