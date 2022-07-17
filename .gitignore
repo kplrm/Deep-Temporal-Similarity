@@ -1,4 +1,4 @@
 # exclude everything except directory foo/bar
-ipynb_checkpoints/
+#ipynb_checkpoints/
 *.png
 *.h5
